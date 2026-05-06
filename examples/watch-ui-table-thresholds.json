@@ -1,0 +1,17 @@
+{
+  "repo": "watch-ui-table-line",
+  "thresholds": {
+    "signal": 2,
+    "slack": 1,
+    "confidence": 2,
+    "drag": 5,
+    "ship": 159,
+    "watch": 103
+  },
+  "terms": [
+    "view drift",
+    "state pressure",
+    "layout risk",
+    "interaction cost"
+  ]
+}
